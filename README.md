@@ -192,7 +192,7 @@ dist/
 ```text
 KnightForge/
 │
-├── main.py
+├── knightforge.py
 │
 ├── controllers/
 │   ├── project_controller.py
